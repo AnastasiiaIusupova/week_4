@@ -1,0 +1,14 @@
+{
+  "name": "week_4",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.19.0"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/AnastasiiaIusupova/week_4.git",
+  "author": "iusupova_anastasiia",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
